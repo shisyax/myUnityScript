@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class CustomCharacterController : MonoBehaviour {
     /*
-    *   Copyright(c) 2019 Tomohisa Handa
+    *   Copyright(c) 2019 KougAdzu
     *   Released under the MIT license
     *   https://github.com/YukinobuKurata/YouTubeMagicBuyButton/blob/master/MIT-LICENSE.txt
     */
